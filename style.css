@@ -1,0 +1,11 @@
+.credit{
+    font-size: 1rem;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    width: 1000px;
+    height: 700px;
+    position: absolute;
+    left: 50%;
+    margin-left: -500px;
+    }
+    
